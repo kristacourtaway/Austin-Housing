@@ -18,4 +18,4 @@ Text Analysis: Preprocesses text data in the description field, extracts sentime
 
 Predictive Modeling: Performs predictive modeling using linear regression to predict housing prices and Random Forests for classification tasks. It includes preprocessing steps such as handling missing values and feature selection and evaluating the model's performance using metrics like Root Mean Squared Error (RMSE) and accuracy.
 
-In summary, this code provides a multifaceted analysis of a housing dataset, encompassing descriptive statistics, visualizations, regression modeling, time series forecasting, geospatial mapping, text sentiment analysis, and predictive modeling. It illustrates a holistic approach to data analysis, covering various data dimensions.
+In summary, this code provides a multifaceted analysis. Encompassing descriptive statistics, visualizations, regression modeling, time series forecasting, geospatial mapping, text sentiment analysis, and predictive modeling. It illustrates a holistic approach to data analysis, covering various data dimensions.
