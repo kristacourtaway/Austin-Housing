@@ -1,6 +1,6 @@
-# Austin-Housing
+# Austin Housing R Project
 
-The provided code is a comprehensive analysis script focused on housing data, performing various exploratory, statistical, and predictive tasks. It consists of the following key sections:
+The provided R code is a comprehensive analysis script focused on housing data, performing various exploratory, statistical, and predictive tasks. It consists of the following key sections:
 
 Libraries and Data Loading: Loads essential libraries such as tidyverse, caret, and ggplot2 and reads the "austinHousingData.csv" file.
 
